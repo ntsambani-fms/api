@@ -15,15 +15,18 @@ As part of my goal to attain proficiency in C# and .NET, I have successfully cre
     - **GetAll()**: Retrieves all stocks.
     - **GetById(int id)**: Retrieves a specific stock by ID.
     - **Create(CreateStockRequestDto stockDto)**: Allows adding a new stock to the database.
-  
-      
-![Screenshot 2024-08-15 105922](https://github.com/user-attachments/assets/4caefdfd-47d0-4ddb-9a24-6ab11b2bc0f0)
 
-![Screenshot 2024-08-15 105922](https://github.com/user-attachments/assets/533196d6-5960-4e37-bf4f-6b5e967fe290)
+  
+![Screenshot 2024-08-15 105846](https://github.com/user-attachments/assets/1eca0737-7214-499d-8bac-09cae722c122)
+
+![Screenshot 2024-08-15 105922](https://github.com/user-attachments/assets/4caefdfd-47d0-4ddb-9a24-6ab11b2bc0f0)
 
 ![Screenshot 2024-08-15 110018](https://github.com/user-attachments/assets/b34de15a-2941-4015-bb8d-e56ca51aa811)
 
+
 ![Screenshot 2024-08-15 110114](https://github.com/user-attachments/assets/e05ac635-424f-40cb-9997-21aad8c067af)
+
+![Screenshot 2024-08-15 133111](https://github.com/user-attachments/assets/9bd50653-0745-48a6-ba61-b594b64b64f3)
 
 ### Next Steps:
 - Continue refining the API by adding additional features such as updating and deleting stocks.
